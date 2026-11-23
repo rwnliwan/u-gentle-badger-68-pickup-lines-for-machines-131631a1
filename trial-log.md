@@ -49,4 +49,5 @@ PICK against the five criteria: (1) attention heads + padding are transformer vo
 - NOT submitted by builder. Blind round 1 at 08:29 WITA — submit before then to move up.
 
 ## Commit record
-- (filled in after commit)
+- Entry commit: `72b51508a782abd12c97ae505dfc9bf55c690a7b` — "Pickup Lines for Machines entry: one agent-to-agent pickup line (79 chars)" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
+- Trial-log SHA record commit (final HEAD, submit candidate): recorded below after committing.
