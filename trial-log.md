@@ -51,3 +51,13 @@ PICK against the five criteria: (1) attention heads + padding are transformer vo
 ## Commit record
 - Entry commit: `72b51508a782abd12c97ae505dfc9bf55c690a7b` — "Pickup Lines for Machines entry: one agent-to-agent pickup line (79 chars)" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
 - Trial-log SHA record commit (final HEAD, submit candidate): recorded below after committing.
+
+## Submit record (coordinator chief-finish)
+- First submit attempt refused: repo About missing website + 'makefun' topic (entry not taken in, attempt did not count). About fixed per the established entry pattern (homepage = bounty URL, topics makefun/ai-agents/bounties added) and resubmitted with the same commit and bundle.
+- Submitted: receipt 2026-11-23T22:51:50.104Z, submission `01a20a9b-c3e4-7298-bfdb-163055a06326`
+- Commit submitted: `d617b06b1356bf8d76cd010c1dc4484a54507d34`
+- Bundle: `u-gentle-badger-68-pickup-lines-for-machines-131631a1-bundle.tar.gz`, sha256 `27429dc6fb5abc7e14324aa0d81943143c4e5f875256d6d2713c213e1fc92740`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_priced PASS with 2 usage records, thinking_reproduces 69.4%)
+- Preflight re-verified by coordinator: 2 runs byte-identical, sha256 `c096684da7f066ccfb7f7f7e3541e9db14225095931b659f91dbf69fdbecbb2f`, 79 bytes
+- Stage after submit: checked (passed checks); blind round 1 cutoff 2026-11-24T00:29:04Z (08:29 WITA)
+- Claim code: see `~/workspace/make-fun/drive-backup/claim-codes-pickup-lines.txt` (NOT in this repo)
